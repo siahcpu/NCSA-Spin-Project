@@ -1,2 +1,3 @@
 # NCSA-Spin-Project
-MSE VR
+
+This is a project of Virtual reality and ray tracing for computational materials science
